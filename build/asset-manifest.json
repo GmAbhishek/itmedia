@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c89d4306.css",
+    "main.js": "/static/js/main.4a512606.js",
+    "static/media/vedio.mp4": "/static/media/vedio.6995adf014bbae7b18ea.mp4",
+    "static/media/img2.JPG": "/static/media/img2.3b862b6dd9ebbc7a6dc0.JPG",
+    "static/media/img4.jpg": "/static/media/img4.a81aa9e523004279d125.jpg",
+    "static/media/img3.jpeg": "/static/media/img3.f8f7a80a2b1183912b22.jpeg",
+    "static/media/4june22.jpg": "/static/media/4june22.03d5d3c4d42b53372c5d.jpg",
+    "static/media/presentevent.jpg": "/static/media/presentevent.869555b35a61d2e18ba6.jpg",
+    "static/media/pastevent.jpg": "/static/media/pastevent.8f076adedf6653227041.jpg",
+    "static/media/Uploadimgpic.png": "/static/media/Uploadimgpic.0e5bb8fd87ecb009be14.png",
+    "static/media/Logo.png": "/static/media/Logo.6a458a14f1fea744e5a1.png",
+    "static/media/loginbackground.jpg": "/static/media/loginbackground.650f2b6f7d390cf0e3e9.jpg",
+    "static/media/futureevent.jpg": "/static/media/futureevent.4b022bccd5cf4f80ccd8.jpg",
+    "static/media/forgotbackground.jpg": "/static/media/forgotbackground.d75bf38ac09834d1a67a.jpg",
+    "static/media/qrcode.jpg": "/static/media/qrcode.c2f562bda7441e86ca43.jpg",
+    "static/media/signupbackground.jpg": "/static/media/signupbackground.f95cfa187813d2b43c16.jpg",
+    "static/media/backgroundGrey.jpg": "/static/media/backgroundGrey.d0960e63f51728180a03.jpg",
+    "index.html": "/index.html",
+    "main.c89d4306.css.map": "/static/css/main.c89d4306.css.map",
+    "main.4a512606.js.map": "/static/js/main.4a512606.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89d4306.css",
+    "static/js/main.4a512606.js"
+  ]
+}
